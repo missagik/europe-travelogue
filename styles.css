@@ -1,10 +1,19 @@
 header{
     text-align: center;
+    border-bottom: solid;
+    padding-bottom: 1.5em;
 }
 
 nav a{
     text-decoration: none;
-    
+    background-color: black;
+    color: white;
+    padding: 0.5em;
+
+}
+
+#london, #paris, #barcelona, img{
+    text-align: center;
 }
 
 #london{
