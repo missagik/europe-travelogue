@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    
+}
+
+#london{
+    background-color: rgb(244, 236, 166);
+    padding: 1em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+#paris{
+    background-color: rgb(63, 63, 89);
+    color: white;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+#barcelona{
+    background-color: rgb(171, 206, 237);
+    padding: 1em;
+    margin-bottom: 1em;
+    
+}
