@@ -4,12 +4,15 @@ header{
     padding-bottom: 1.5em;
 }
 
+header p{
+    padding-bottom: 1em;
+}
+
 nav a{
     text-decoration: none;
     background-color: black;
     color: white;
     padding: 0.8em;
-
 }
 
 #london, #paris, #barcelona, img{
